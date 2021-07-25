@@ -12,4 +12,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deviknitkkr&layout=compact&hide_border=true)
 
-![Vikas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deviknitkkr&hide_border=true)
+![Vikas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=deviknitkkr&hide_border=true&v=2)
