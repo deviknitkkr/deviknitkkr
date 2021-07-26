@@ -12,4 +12,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deviknitkkr&layout=compact&hide_border=true)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@deviknitkkr/5ba4a88f-765a-43f6-83cd-70dbafaae344.png" /></a>
