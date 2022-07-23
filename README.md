@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working at Incedo 
+- 🔭 I’m currently working at Amazon
  
 
 
