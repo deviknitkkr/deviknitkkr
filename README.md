@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working at Amazon
+- 🔭 I’m currently working at JP Margan
  
 
 
