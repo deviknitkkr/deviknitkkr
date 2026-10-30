@@ -1,14 +1,13 @@
-### Hi there 👋
+# Hi, I'm Vikas 👋
 
+Backend Software Engineer focused on high-throughput distributed systems, low-latency architectures, and core transactional infrastructure. 
 
+```bash
+vikas@workstation:~$ neofetch
+OS: macOS / Linux
+Role: Senior Associate / SDE @ J.P. Morgan
+Focus: Distributed Systems, High-Concurrency Pipelines, Event-Driven Architectures
+Stack: Java 21+, Go, Rust, Kafka, CockroachDB, PostgreSQL, Redis, Kubernetes
+Passions: Zero-allocation memory models, mechanical sympathy, core systems
 
-
-- 🔭 I’m currently working at JP Margan
- 
-
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deviknitkkr&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deviknitkkr&layout=compact&hide_border=true)
 
