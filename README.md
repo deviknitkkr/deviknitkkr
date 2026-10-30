@@ -25,8 +25,7 @@ Backend Engineer focused on high-throughput distributed systems, event-driven pi
 ### Activity & Telemetry
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=deviknitkkr&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deviknitkkr&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+
 </div>
 
 <p align="center">
